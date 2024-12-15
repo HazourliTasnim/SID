@@ -3,7 +3,7 @@ package projet_sid;
 import java.io.*;
 import java.net.*;
 
-public class serveur_gestion {
+public class Serveur_gestion {
 
     // Méthode pour gérer la connexion avec le client
     public static void handleClient(Socket clientSocket) {
