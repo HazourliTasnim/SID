@@ -3,7 +3,7 @@ package projet_sid;
 import java.io.*;
 import java.net.*;
 
-public class client {
+public class Client {
 
     // Méthode pour envoyer une requête de traduction au serveur
     public static void sendTranslationRequest(String word, String lang) {
