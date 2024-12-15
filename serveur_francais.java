@@ -4,7 +4,7 @@ import java.net.*;
 import java.util.HashMap;
 import java.util.Map;
 
-public class serveur_francais {
+public class Serveur_francais {
 
     // Dictionnaire pour la traduction de l'anglais vers le français
     private static final Map<String, String> dictionary = new HashMap<>();
