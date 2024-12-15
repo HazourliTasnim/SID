@@ -5,7 +5,7 @@ import java.net.*;
 import java.util.HashMap;
 import java.util.Map;
 
-public class serveur_arabe {
+public class Serveur_arabe {
 
     // Dictionnaire pour la traduction de l'anglais vers l'arabe
     private static final Map<String, String> dictionary = new HashMap<>();
